@@ -16,5 +16,20 @@
  *
  * Iniciar el servidor
  * npm start
+ *
+ *
+ * Pasos para hacer commit a git
+ *
+ * Iniciar GIT:
+ * git init
+ *
+ * Añadir a repositorio:
+ * git add -A
+ *
+ * Realizar commit:
+ * git commit -m 'mensaje de commit'
+ *
+ * Subir archivos a repositorio:
+ * git push
  */
 
